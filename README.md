@@ -1,7 +1,9 @@
-![Nishipy's github stats](https://github-readme-stats.vercel.app/api?username=moriwakihikari)
-
-
-![Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=moriwakihikari)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=moriwakihikari&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moriwakihikari" />
+</a>
 
 
 
