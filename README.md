@@ -1,6 +1,6 @@
 ![Nishipy's github stats](https://github-readme-stats.vercel.app/api?username=nishipy)
 
-<img src="https://grass-graph.moshimo.works/images/moriwakihikari.png">
+https://github-readme-stats.vercel.app/api/top-langs/?username=moriwakihikari
 
 
 
